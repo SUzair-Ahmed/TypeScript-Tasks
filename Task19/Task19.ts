@@ -1,0 +1,1 @@
+// According to you in my Exercise 14 you have told to remove every person in your guest list so I have done that and now my list is empty for inviting any guest for exercise 19
